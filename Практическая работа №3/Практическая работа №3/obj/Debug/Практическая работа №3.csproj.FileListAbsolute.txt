@@ -1,0 +1,11 @@
+C:\Users\Адель\Desktop\C#Проекты\Практическая работа №3\Практическая работа №3\obj\Debug\Практическая работа №3.csproj.AssemblyReference.cache
+C:\Users\Адель\Desktop\C#Проекты\Практическая работа №3\Практическая работа №3\obj\Debug\Практическая работа №3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Адель\Desktop\C#Проекты\Практическая работа №3\Практическая работа №3\obj\Debug\Практическая_работа__3.Form1.resources
+C:\Users\Адель\Desktop\C#Проекты\Практическая работа №3\Практическая работа №3\obj\Debug\Практическая_работа__3.Properties.Resources.resources
+C:\Users\Адель\Desktop\C#Проекты\Практическая работа №3\Практическая работа №3\obj\Debug\Практическая работа №3.csproj.GenerateResource.cache
+C:\Users\Адель\Desktop\C#Проекты\Практическая работа №3\Практическая работа №3\obj\Debug\Практическая работа №3.csproj.CoreCompileInputs.cache
+C:\Users\Адель\Desktop\C#Проекты\Практическая работа №3\Практическая работа №3\bin\Debug\Практическая работа №3.exe.config
+C:\Users\Адель\Desktop\C#Проекты\Практическая работа №3\Практическая работа №3\bin\Debug\Практическая работа №3.exe
+C:\Users\Адель\Desktop\C#Проекты\Практическая работа №3\Практическая работа №3\bin\Debug\Практическая работа №3.pdb
+C:\Users\Адель\Desktop\C#Проекты\Практическая работа №3\Практическая работа №3\obj\Debug\Практическая работа №3.exe
+C:\Users\Адель\Desktop\C#Проекты\Практическая работа №3\Практическая работа №3\obj\Debug\Практическая работа №3.pdb
